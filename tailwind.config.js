@@ -4,7 +4,10 @@ export default {
   theme: {
     extend: {
       colors: {
-        danger: "#E25C5C",
+        red: {
+          400: "#E25C5C",
+          700: "#FF0404D9",
+        },
 
         gray: {
           50: "#D9D9D9",
